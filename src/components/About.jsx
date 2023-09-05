@@ -32,7 +32,7 @@ function About() {
             software and applications, ability to handle challenging work, and excellent time management skills.
           </p>
           <p>
-          I am a Front-end Developer / Devloper with strong verbal and written communication skills, self-driven, and can deliver
+          I am a Front-end Developer / Engineer with strong verbal and written communication skills, self-driven, and can deliver
 high-quality results in a fast-paced environment.
           </p>
         </div>
@@ -55,15 +55,15 @@ high-quality results in a fast-paced environment.
             </p>
             <p className="skill">
               <span>
-                <SiPostgresql />
+                <SiCSS />
               </span>
-              Postgres
+              CSS
             </p>
             <p className="skill">
               <span>
-                <SiPython />
+                <SiReact />
               </span>
-              Python
+              React
             </p>
             <p className="skill">
               <span>
@@ -73,9 +73,9 @@ high-quality results in a fast-paced environment.
             </p>
             <p className="skill">
               <span>
-                <SiHelm />
+                <SiJavaScript />
               </span>
-              Helm
+              JavaScript
             </p>
             <p className="skill">
               <span>
@@ -91,9 +91,9 @@ high-quality results in a fast-paced environment.
             </p>
             <p className="skill">
               <span>
-                <SiAmazonaws />
+                <SiBootstrap />
               </span>
-              AWS
+              Bootstrap
             </p>
             <p className="skill">
               <span>
@@ -103,21 +103,15 @@ high-quality results in a fast-paced environment.
             </p>
             <p className="skill">
               <span>
-                <SiApachekafka />
+                <SiMYSQL />
               </span>
-              Apache Kafka
+              MYSQL
             </p>
             <p className="skill">
               <span>
-                <SiCss3 />
+                <SiNodejs />
               </span>
-              CSS
-            </p>
-            <p className="skill">
-              <span>
-                <SiJenkins />
-              </span>
-              Jenkins
+              Nodejs
             </p>
             <p className="skill">
               <span>
@@ -127,9 +121,9 @@ high-quality results in a fast-paced environment.
             </p>
             <p className="skill">
               <span>
-                <SiFlask />
+                <SiAngularJS />
               </span>
-              Flask
+              Angular JS
             </p>
           </div>
         </div>
