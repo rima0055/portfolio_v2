@@ -28,10 +28,11 @@ function About() {
         </div>
         <div className="text">
           <p>
-            Analytical and resourceful problem-solver with disciplined approach and skill in producing clean, robust code.
+            Responsible and motivated student ready to apply education in the workplace. Offers excellent technical abilities with 
+            software and applications, ability to handle challenging work, and excellent time management skills.
           </p>
           <p>
-          I am a Software Developer / Engineer with strong verbal and written communication skills, self-driven, and can deliver
+          I am a Front-end Developer / Devloper with strong verbal and written communication skills, self-driven, and can deliver
 high-quality results in a fast-paced environment.
           </p>
         </div>
