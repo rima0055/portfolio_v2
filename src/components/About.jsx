@@ -4,18 +4,15 @@ import {FaJava} from "react-icons/fa";
 import {
   SiTypescript,
   SiJavascript,
-  SiPython,
-  SiPostgresql,
+  SiReact,
+  SiMYSQL,
   SiGit,
-  SiFlask,
+  SiBootstrap,
   SiSpring,
   SiApachemaven,
-  SiApachekafka,
   SiCss3,
-  SiJenkins,
   SiHtml5,
-  SiHelm,
-  SiAmazonaws
+  SiAngularJS
 } from "react-icons/si";
 
 function About() {
@@ -55,9 +52,9 @@ high-quality results in a fast-paced environment.
             </p>
             <p className="skill">
               <span>
-                <SiCSS />
+                <SiCSS3 />
               </span>
-              CSS
+              CSS3
             </p>
             <p className="skill">
               <span>
@@ -82,12 +79,6 @@ high-quality results in a fast-paced environment.
                 <SiTypescript />
               </span>
               Typescript
-            </p>
-            <p className="skill">
-              <span>
-                <SiJavascript />
-              </span>
-              Javascript
             </p>
             <p className="skill">
               <span>
