@@ -11,7 +11,7 @@ function Main() {
         </span>
       </h2>
       <h1 className="title">
-        I am Software Developer at ECI Technology Group Inc.
+        I am Software Developer at Akash Technolabs.
       </h1>
       <h5 style={{ marginTop: "20px", textAlign: "center" }}>
         Thanks for visiting my Portfolio
