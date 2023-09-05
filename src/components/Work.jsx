@@ -7,18 +7,17 @@ function Work() {
       <h2 className="title">Work Experience</h2>
 
       <div className="job">
-        <p className="job__title">Software Developer</p>
-        <p className="company__name">ECI Technology Group Inc. | Sep 2019 - Present</p>
+        <p className="job__title">Front-end Developer</p>
+        <p className="company__name">Akash Technolabs | June 2018 - Januray 2019</p>
         <ul className="job__points">
-          <li>Built distributed storage, index, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use.</li>
-          <li>Got hands-on experience in professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.</li>
-          <li>Design, develop, modify, debug and/or maintain software code according to functional, non-functional and technical design specifications.</li>
+          <li>Developed user interfaces for web applications using HTML, CSS, and JavaScript.</li>
+          <li>Analyzed customer requirements to create efficient software solutions.</li>
+          <li>Tested front-end code in multiple browsers to ensure cross-browser compatibility.</li>
           <li>Proficient in using Git for version control, merging and branching.</li>
-          <li>Knowledge of cloud computing platforms like AWS and experience in deploying applications on EC2 instances.</li>
-          <li>Collaborated with cross-functional teams to identify and solve complex software development problems.</li>
-          <li>Implemented security measures like authentication and authorization using Spring Security.</li>
-          <li>Experience in working with multi-threading and concurrency in Java.</li>
-          <li>Worked in an agile environment to deliver high-quality software</li>
+          <li>Collaborated with back-end developers to integrate user-facing elements with server-side logic.</li>
+          <li>Developed site content and graphics by coordinating with copywriters and graphic artists.</li>
+          <li>Utilized Java and OOP languages throughout development phases.</li>
+          <li>Utilizing web applications and programming languages</li>
         </ul>
       </div>
     </div>
