@@ -10,8 +10,8 @@ function Header() {
   return (
     <div className="header">
       <div className="header__left">
-        <h3 className="logo">Rima Patel</h3>
-        <p>rimapatel9824@gmail.com</p>
+        <h3 className="logo">Rimaben Patel</h3>
+        <p>reemapatel.glsica15@gmail.com</p>
       </div>
       <div className="header__right">
         <span className="linkedin">
@@ -43,7 +43,7 @@ function Header() {
         </span>
         <span className="gmail">
           <a
-            href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=rimapatel9824@gmail.com&tf=1"
+            href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=reemapatel.glsica15@gmail.com&tf=1"
             target="_blank"
             rel="noopener noreferrer"
           >
