@@ -65,12 +65,6 @@ high-quality results in a fast-paced environment.
             </p>
             <p className="skill">
               <span>
-                <SiSpring />
-              </span>
-              Spring
-            </p>
-            <p className="skill">
-              <span>
                 <SiJavascript />
               </span>
               JavaScript
