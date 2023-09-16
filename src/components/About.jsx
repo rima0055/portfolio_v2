@@ -5,14 +5,15 @@ import {
   SiTypescript,
   SiJavascript,
   SiReact,
-  SiMYSQL,
+  SiMysql,
   SiGit,
   SiBootstrap,
   SiSpring,
   SiApachemaven,
   SiCss3,
   SiHtml5,
-  SiAngularJS
+  SiAngular,
+  SiNodedotjs
 } from "react-icons/si";
 
 function About() {
@@ -52,7 +53,7 @@ high-quality results in a fast-paced environment.
             </p>
             <p className="skill">
               <span>
-                <SiCSS3 />
+                <SiCss3 />
               </span>
               CSS3
             </p>
@@ -70,7 +71,7 @@ high-quality results in a fast-paced environment.
             </p>
             <p className="skill">
               <span>
-                <SiJavaScript />
+                <SiJavascript />
               </span>
               JavaScript
             </p>
@@ -94,13 +95,13 @@ high-quality results in a fast-paced environment.
             </p>
             <p className="skill">
               <span>
-                <SiMYSQL />
+                <SiMysql />
               </span>
-              MYSQL
+              MySQL
             </p>
             <p className="skill">
               <span>
-                <SiNodejs />
+                <SiNodedotjs />
               </span>
               Nodejs
             </p>
@@ -112,9 +113,9 @@ high-quality results in a fast-paced environment.
             </p>
             <p className="skill">
               <span>
-                <SiAngularJS />
+                <SiAngular />
               </span>
-              Angular JS
+              AngularJS
             </p>
           </div>
         </div>
