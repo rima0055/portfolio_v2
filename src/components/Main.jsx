@@ -11,7 +11,7 @@ function Main() {
         </span>
       </h2>
       <h1 className="title">
-        I am Front-end Developer at DIT Wed Solutions.
+        I am Front-end Developer at DIT Web Solutions.
       </h1>
       <h5 style={{ marginTop: "20px", textAlign: "center" }}>
         Thanks for visiting my Portfolio
