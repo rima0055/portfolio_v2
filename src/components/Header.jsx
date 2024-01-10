@@ -11,7 +11,7 @@ function Header() {
     <div className="header">
       <div className="header__left">
         <h3 className="logo">Rimaben Patel</h3>
-        <p>reemapatel.glsica15@gmail.com</p>
+        <p>rimapatel9824@gmail.com</p>
       </div>
       <div className="header__right">
         <span className="linkedin">
